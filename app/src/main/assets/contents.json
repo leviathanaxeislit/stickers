@@ -134,6 +134,534 @@
         }
 
       ]
+    },
+    {
+      "identifier": "2",
+      "name": "Sad Loif",
+      "publisher": "Got_it",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "https://gitlab.com/leviathanaxeislit/stickerapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+          {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": ["😢"]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": ["🤤"]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": ["😘"]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": ["😈"]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": ["😄"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Reactions",
+      "publisher": "Meme Hunter",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "https://gitlab.com/leviathanaxeislit/stickerapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+          {
+          "image_file": "31.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": ["😢"]
+        },
+        {
+          "image_file": "57.webp",
+          "emojis": ["🤤"]
+        },
+        {
+          "image_file": "58.webp",
+          "emojis": ["😘"]
+        },
+        {
+          "image_file": "59.webp",
+          "emojis": ["😈"]
+        },
+        {
+          "image_file": "60.webp",
+          "emojis": ["😄"]
+        }
+
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Yogi's Magik",
+      "publisher": "AntiVillain",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "https://gitlab.com/leviathanaxeislit/stickerapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+          {
+          "image_file": "61.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "62.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "63.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "64.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "65.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "66.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "67.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "68.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "69.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "70.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "71.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "72.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "73.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "74.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "75.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "76.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "78.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "79.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "80.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "81.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "82.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "83.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "84.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "85.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "86.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "87.webp",
+          "emojis": ["😢"]
+        },
+        {
+          "image_file": "88.webp",
+          "emojis": ["🤤"]
+        },
+        {
+          "image_file": "89.webp",
+          "emojis": ["😘"]
+        },
+        {
+          "image_file": "90.webp",
+          "emojis": ["😈"]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Doge Pak",
+      "publisher": "now i dunno who published it ",
+      "tray_image_file": "tray.png",
+      "publisher_email":"",
+      "publisher_website": "https://gitlab.com/leviathanaxeislit/stickerapp",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+          {
+          "image_file": "91.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "92.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "93.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "94.webp",
+          "emojis": ["😩","😰"]
+        },
+        {
+          "image_file": "95.webp",
+          "emojis": ["😭","💧"]
+        },
+        {
+          "image_file": "96.webp",
+          "emojis": ["😍","♥"]
+        },
+        {
+          "image_file": "97.webp",
+          "emojis": ["💔","👎"]
+        },
+        {
+          "image_file": "98.webp",
+          "emojis": ["😍","💑"]
+        },
+        {
+          "image_file": "99.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "100.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "101.webp",
+          "emojis": ["😱","😵"]
+        },
+        {
+          "image_file": "102.webp",
+          "emojis": ["😡","😠"]
+        },
+        {
+          "image_file": "103.webp",
+          "emojis": ["❓","🤔"]
+        },
+        {
+          "image_file": "104.webp",
+          "emojis": ["🌈","😜"]
+        },
+        {
+          "image_file": "105.webp",
+          "emojis": ["💻","😩"]
+        },
+        {
+          "image_file": "106.webp",
+          "emojis": ["😡","😤"]
+        },
+        {
+          "image_file": "107.webp",
+          "emojis": ["😩","😨"]
+        },
+        {
+          "image_file": "108.webp",
+          "emojis": ["💻","🌃"]
+        },
+        {
+          "image_file": "109.webp",
+          "emojis": ["🎉","✨"]
+        },
+        {
+          "image_file": "110.webp",
+          "emojis": ["🤮","👎"]
+        },
+        {
+          "image_file": "111.webp",
+          "emojis": ["🖐","🙋"]
+        },
+        {
+          "image_file": "112.webp",
+          "emojis": ["🖐","👋"]
+        },
+        {
+          "image_file": "113.webp",
+          "emojis": ["🍵","😌"]
+        },
+        {
+          "image_file": "114.webp",
+          "emojis": ["📱","😦"]
+        },
+        {
+          "image_file": "115.webp",
+          "emojis": ["🔋","😵"]
+        },
+        {
+          "image_file": "116.webp",
+          "emojis": ["😢"]
+        },
+        {
+          "image_file": "117.webp",
+          "emojis": ["🤤"]
+        },
+        {
+          "image_file": "118.webp",
+          "emojis": ["😘"]
+        },
+        {
+          "image_file": "119.webp",
+          "emojis": ["😈"]
+        },
+        {
+          "image_file": "120.webp",
+          "emojis": ["😄"]
+        }
+
+      ]
     }
+
   ]
 }
